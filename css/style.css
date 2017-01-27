@@ -2,7 +2,7 @@
 		
 a.brand img {
 	border-radius:50%;
-	border:5px solid #fff;
+	border:7px solid #fff;
 }
 .profile, .skills, .work, .resume {
 	padding:30px 0;
@@ -27,7 +27,7 @@ a.brand img {
 	margin-top: 30px;
 }
 .profile .container .span5 {
-	padding:40px 0;
+	padding:50px 0;
 }
 a.hire-me {
 	display: inline-block;
@@ -159,7 +159,7 @@ ul.social-icons li a:hover {
 }
 .css2 {
 	width:85%;
-	background:#39d084;
+	background:#f9d089;
 	-moz-animation:photoshop 2s ease-out;
 	-webkit-animation:photoshop 2s ease-out;
 }
