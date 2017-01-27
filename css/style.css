@@ -9,11 +9,11 @@ a.brand img {
 }
 .profile h2, .skills h2, .work h2, .resume h2 {
 	font-weight:normal;
-	color: #39D084;
+	color: #39D085;
 }
 /***** Profile *****/
 	.profile h1 {
-	color:#39d084;
+	color:#39d083;
 	font-weight: normal;
 }
 .profile h3 {
